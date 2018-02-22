@@ -1,2 +1,3 @@
 # H5-Phone
-An animated H5 page
+### A web page of phone with animations
+- 使用CSS3动画特效制作的H5网页
